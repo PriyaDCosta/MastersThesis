@@ -15,7 +15,7 @@ This model will use LLMs to perform text augmentation on various data sets, such
 # Proposed Methodology (Just Intended Guidelines)
 
 ## Data
-[### Sarcastic Data - Sarcastic Reddit Comments](https://www.kaggle.com/datasets/sherinclaudia/sarcastic-comments-on-reddit)
+### [Sarcastic Data - Sarcastic Reddit Comments](https://www.kaggle.com/datasets/sherinclaudia/sarcastic-comments-on-reddit)
 ### Factual Data
 ### Data in the form of questions
 ### Opinion-Based Data
