@@ -15,34 +15,34 @@ This model will use LLMs to perform text augmentation on various data sets, such
 # Proposed Methodology (Just Intended Guidelines)
 
 ## Data
-### Sarcastic Data
-### Factual Data
-### Data in the form of questions
-### Opinion-Based Data
-### Factual Data
-### Technical data Data
-### Conversations Data
+Sarcastic Data
+Factual Data
+Data in the form of questions
+Opinion-Based Data
+Factual Data
+Technical data Data
+Conversations Data
 
 ## LLMs used
-### Chat GPT
-### XLNet
-### DyloGPT
-### BlenderBot
+Chat GPT
+XLNet
+DyloGPT
+BlenderBot
 
 
 ## Text Augmentation Techniques
-### Paraphrasing
-### Backtranslation
-### Synonym Replacement
-### Alternative Spellings
-### Sequence Alteration
+Paraphrasing
+Backtranslation
+Synonym Replacement
+Alternative Spellings
+Sequence Alteration
 
 ## Drawing Inferences (Techniques to Compare Similarities Across Data Types)
-### Cosine Similarity
-### Dice's Coefficient
-### Manhattan Distance
-### Jaccard Distance
-### Overlap Coefficient 
+Cosine Similarity
+Dice's Coefficient
+Manhattan Distance
+Jaccard Distance
+Overlap Coefficient 
 
 # Intended Publication
 
