@@ -15,19 +15,13 @@ This model will use LLMs to perform text augmentation on various data sets, such
 # Proposed Methodology (Just Intended Guidelines)
 
 ## Data
-Sarcastic Data
-
-Factual Data
-
-Data in the form of questions
-
-Opinion-Based Data
-
-Factual Data
-
-Technical data Data
-
-Conversations Data
+### Sarcastic Data - Sarcastic Reddit Comments
+### Factual Data
+### Data in the form of questions
+### Opinion-Based Data
+### Factual Data
+### Technical data Data
+### Conversations Data
 
 ## LLMs used
 Chat GPT
