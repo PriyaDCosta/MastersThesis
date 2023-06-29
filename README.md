@@ -14,10 +14,10 @@ This model will use LLMs to perform text augmentation on various data sets, such
 
 # Proposed Methodology (Just Intended Guidelines)
 
-## 1. Data
-## 2. LLMs
-## 3. Text Augmentation Techniques
-## 4. Drawing Inferences
+## Data
+## LLMs
+## Text Augmentation Techniques
+## Drawing Inferences
 
 # Intended Publication
 
