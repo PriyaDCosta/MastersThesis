@@ -24,7 +24,6 @@ Are there any pecularities noticed in any context or augmentation method? Are th
 
 ## Data
 ### [Sarcastic Data](https://www.kaggle.com/datasets/sherinclaudia/sarcastic-comments-on-reddit)
-### Factual Data and Technical Data
 ### [Data With Varied Emotions (Customer Reviews)](https://www.kaggle.com/datasets/vigneshwarsofficial/reviews)
 ### [Data in the form of questions](https://www.kaggle.com/competitions/quora-insincere-questions-classification/data)
 ### [Opinion Based Data](https://www.kaggle.com/datasets/miroslavsabo/young-people-survey)
