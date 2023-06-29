@@ -12,6 +12,11 @@ We propose a model that will use different LLMs, namely GPT, Conditional Transfo
 
 This model will use LLMs to perform text augmentation on various data sets, such as sarcastic texts,question, opinion-based data and creative writing pieces (not an exhaustive list). We will then evaluate the semantic similarity of the the original text and the augmented text using metrics like cosine similarity, The final output is intended to be a comparison of how well different LLMs fare in different text augmentation tasks across different contexts.
 
+# Research Questions
+
+## RQ1
+## RQ2
+
 # Proposed Methodology (Just Intended Guidelines)
 
 ## Data
