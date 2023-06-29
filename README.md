@@ -19,6 +19,8 @@ This model will use LLMs to perform text augmentation on various data sets, such
 ### Factual Data
 ### Data in the form of questions
 ### Opinion-Based Data
+### Factual Data
+### Technical data Data
 
 ## LLMs used
 ### Chat GPT
