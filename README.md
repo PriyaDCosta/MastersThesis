@@ -28,6 +28,10 @@ This model will use LLMs to perform text augmentation on various data sets, such
 ## Text Augmentation Techniques
 ## Drawing Inferences (Techniques to Compare Similarities Across Data Types)
 ### Cosine Similarity
+### Dice's Coefficient
+### Manhattan Distance
+### Jaccard Distance
+### Overlap Coefficient 
 
 # Intended Publication
 
