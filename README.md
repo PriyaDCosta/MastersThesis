@@ -15,9 +15,19 @@ This model will use LLMs to perform text augmentation on various data sets, such
 # Proposed Methodology (Just Intended Guidelines)
 
 ## Data
-## LLMs
+### Sarcastic Data
+### Factual Data
+### Data in the form of questions
+### Opinion-Based Data
+
+## LLMs used
+### Chat GPT
+### XLNet
+
+
 ## Text Augmentation Techniques
-## Drawing Inferences
+## Drawing Inferences (Techniques to Compare Similarities Across Data Types)
+### Cosine Similarity
 
 # Intended Publication
 
