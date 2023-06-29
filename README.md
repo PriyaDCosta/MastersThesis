@@ -15,23 +15,18 @@ This model will use LLMs to perform text augmentation on various data sets, such
 # Proposed Methodology (Just Intended Guidelines)
 
 ## Data
-### [Sarcastic Data - Sarcastic Reddit Comments](https://www.kaggle.com/datasets/sherinclaudia/sarcastic-comments-on-reddit)
-### Factual Data
-### Data in the form of questions
-### Opinion-Based Data
-### Factual Data
-### Technical data Data
-### Conversations Data
+### [Sarcastic Data](https://www.kaggle.com/datasets/sherinclaudia/sarcastic-comments-on-reddit)
+### Factual Data and Technical Data
+### [Data With Varied Emotions (Customer Reviews)](https://www.kaggle.com/datasets/vigneshwarsofficial/reviews)
+### [Data in the form of questions](https://www.kaggle.com/competitions/quora-insincere-questions-classification/data)
+### [Opinion Based Data](https://www.kaggle.com/datasets/miroslavsabo/young-people-survey)
+### [Conversations Data](https://www.kaggle.com/datasets/gogogaurav95/conversation-meetings)
 
 ## LLMs used
 Chat GPT
-
 XLNet
-
 DyloGPT
-
 BlenderBot
-
 Bard
 
 
