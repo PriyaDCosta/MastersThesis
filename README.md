@@ -21,10 +21,13 @@ This model will use LLMs to perform text augmentation on various data sets, such
 ### Opinion-Based Data
 ### Factual Data
 ### Technical data Data
+### Conversations Data
 
 ## LLMs used
 ### Chat GPT
 ### XLNet
+### DyloGPT
+### BlenderBot
 
 
 ## Text Augmentation Techniques
