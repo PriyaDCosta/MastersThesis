@@ -38,6 +38,8 @@ DyloGPT
 
 BlenderBot
 
+Bard
+
 
 
 ## Text Augmentation Techniques
