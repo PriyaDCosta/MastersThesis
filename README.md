@@ -29,7 +29,8 @@ To measure semantic similarity, we will use text similarity measures like Cosine
 Novel Contributions:
 
 Text augmentation using LLMs is highly dependent on the context of the data, and their efficacy must be studied with respect to the context. Text data is an important input to Computational Social Science, and we anticipate that future works in the space will be influenced by LLMs. Through this study, we aim to contribute meaningful insights around how LLMs can be used for text augmentation tasks, and whether certain LLMs must be specifically used for augmentation of certain types of text data / certain augmentation methods.
-Intended Publication:
+
+### Intended Publication:
 
 We intend to publish our work in the  Journal of Big Data, which is focused on examining the challenges facing big data today and going forward.
 
