@@ -9,7 +9,7 @@ In summary, text augmentation using LLMs is a powerful and beneficial approach t
 
 ### Existing Research:
 
-There exists only one pre-print [5] with a similar theme. This preprint focuses on using a popular LLM, i.e Chat GPT for augmenting text data for developing a text augmentation model called Chataug. It only studies text augmentation using a single LLM i.e Chat GPT-4,while there exist many other LLMs such as XLNet, DyloGPT, BlenderBot and Bard.
+There exists only one pre-print  <sup>[5]</sup> with a similar theme. This preprint focuses on using a popular LLM, i.e Chat GPT for augmenting text data for developing a text augmentation model called Chataug. It only studies text augmentation using a single LLM i.e Chat GPT-4,while there exist many other LLMs such as XLNet, DyloGPT, BlenderBot and Bard.
 
 Secondly, Chataug, is tested using three types of data - Amazon product reviews (Customer reviews from 24 product categories), Symptoms dataset (Transcripts of audio data of common medical symptom descriptions over 8 hours) and PubMed20K dataset (Around 20,000 annotated scientific abstracts from the biomedical field). This data is primarily factual in nature, and is mostly related to the field of medicine. Non-factual text data - such as opinions, questions, creative writing and sarcastic comments are not considered in the training set. Similarly, it does not factor in the readability score of the data under consideration.
 
