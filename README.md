@@ -35,13 +35,15 @@ We intend to publish our work in the  Journal of Big Data, which is focused on e
 
 ### Citations:
 
-[1] P. Liu, X. Wang, C. Xiang and W. Meng, "A Survey of Text Data Augmentation," 2020 International Conference on Computer Communication and Network Security (CCNS), Xi'an, China, 2020, pp. 191-195, doi: 10.1109/CCNS50731.2020.00049.
+[1] [P. Liu, X. Wang, C. Xiang and W. Meng, "A Survey of Text Data Augmentation," 2020 International Conference on Computer Communication and Network Security (CCNS), Xi'an, China, 2020, pp. 191-195, doi: 10.1109/CCNS50731.2020.00049.
+](https://ieeexplore.ieee.org/document/9240734/)
 
-[2] Feng, Z., Zhou, H., Zhu, Z., & Mao, K. (2022). Tailored text augmentation for sentiment analysis. Expert Systems with Applications, 205, 117605.
+[2] [Feng, Z., Zhou, H., Zhu, Z., & Mao, K. (2022). Tailored text augmentation for sentiment analysis. Expert Systems with Applications, 205, 117605.](https://www.sciencedirect.com/science/article/pii/S0957417422009162?ref=pdf_download&fr=RR-2&rr=7e01722bcc6b18d0)
 
-[3] Mosolova, A., Fomin, V., & Bondarenko, I. (2018). Text Augmentation for Neural Networks. AIST (Supplement), 2268, 104-109.
+[3] [Mosolova, A., Fomin, V., & Bondarenko, I. (2018). Text Augmentation for Neural Networks. AIST (Supplement), 2268, 104-109.
+](https://ceur-ws.org/Vol-2268/paper11.pdf)
 
-[4] Shorten, C., Khoshgoftaar, T.M. & Furht, B. Text Data Augmentation for Deep Learning. J Big Data 8, 101 (2021). https://doi.org/10.1186/s40537-021-00492-0
+[4] [Shorten, C., Khoshgoftaar, T.M. & Furht, B. Text Data Augmentation for Deep Learning. J Big Data 8, 101 (2021). https://doi.org/10.1186/s40537-021-00492-0](https://link.springer.com/article/10.1186/s40537-021-00492-0)
 
-[5] Dai, Haixing & Liu, Zhengliang & Liao, Wenxiong & Huang, Xiaoke & Wu, Zihao & Zhao, Lin & Liu, Wei & Liu, Ninghao & Li, Sheng & Zhu, Dajiang & Cai, Hongmin & Li, Quanzheng & Liu, Tianming & Li, Xiang. (2023). ChatAug: Leveraging ChatGPT for Text Data Augmentation. 
-
+[5] [Dai, Haixing & Liu, Zhengliang & Liao, Wenxiong & Huang, Xiaoke & Wu, Zihao & Zhao, Lin & Liu, Wei & Liu, Ninghao & Li, Sheng & Zhu, Dajiang & Cai, Hongmin & Li, Quanzheng & Liu, Tianming & Li, Xiang. (2023). ChatAug: Leveraging ChatGPT for Text Data Augmentation. 
+](https://arxiv.org/pdf/2302.13007.pdf)https://arxiv.org/pdf/2302.13007.pdf
