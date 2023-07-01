@@ -32,7 +32,7 @@ Text augmentation using LLMs is highly dependent on the context of the data, and
 
 ### Intended Publication:
 
-We intend to publish our work in the  Journal of Big Data, which is focused on examining the challenges facing big data today and going forward.
+We intend to publish our work in the [Journal of Big Data](https://journalofbigdata.springeropen.com/about?gclid=Cj0KCQjwtO-kBhDIARIsAL6LoreoKKime2jQw6ywZ1qPJRIJDfSbK3nXOORzRwvp9r5b1YhR3NvAHnMaAr4qEALw_wcB), which is focused on examining the challenges facing big data today and going forward.
 
 ### Citations:
 
