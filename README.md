@@ -5,7 +5,7 @@ Text augmentation is the process of generating synthetic variations of existing 
 
 Large Language Models (LLMs) powered by Artificial Intelligence (AI), such as OpenAI's GPT-3, have revolutionized NLP tasks and offer immense potential for text augmentation. Some other benefits of using LLMs for text augmentation include possibly reduced data bias (as LLMs are trained on a diverse range of sources compared to a single human annotator) and opportunities for iterative augmentation, which may not be as easy in manually augmented samples.
 
-In summary, text augmentation using LLMs is a powerful and beneficial approach to enhance the performance and generalization capabilities of NLP models. There are many research works which study text augmentation, including surveys on different methods of text augmentation [1], scenario specific text augmentation[2] and text augmentation for specific machine-learning methods [3] & [4]. 
+In summary, text augmentation using LLMs is a powerful and beneficial approach to enhance the performance and generalization capabilities of NLP models. There are many research works which study text augmentation, including surveys on different methods of text augmentation [1], scenario specific text augmentation[2] and text augmentation for specific machine-learning methods <sup>tag[3] & [4]</sup>. 
 
 ### Existing Research:
 
