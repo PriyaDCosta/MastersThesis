@@ -44,7 +44,7 @@ We intend to publish our work in the  Journal of Big Data, which is focused on e
 [3] [Mosolova, A., Fomin, V., & Bondarenko, I. (2018). Text Augmentation for Neural Networks. AIST (Supplement), 2268, 104-109.
 ](https://ceur-ws.org/Vol-2268/paper11.pdf)
 
-[4] [Shorten, C., Khoshgoftaar, T.M. & Furht, B. Text Data Augmentation for Deep Learning. J Big Data 8, 101 (2021). https://doi.org/10.1186/s40537-021-00492-0](https://link.springer.com/article/10.1186/s40537-021-00492-0)
+[4] [Shorten, C., Khoshgoftaar, T.M. & Furht, B. Text Data Augmentation for Deep Learning. J Big Data 8, 101 (2021).](https://link.springer.com/article/10.1186/s40537-021-00492-0)
 
 [5] [Dai, Haixing & Liu, Zhengliang & Liao, Wenxiong & Huang, Xiaoke & Wu, Zihao & Zhao, Lin & Liu, Wei & Liu, Ninghao & Li, Sheng & Zhu, Dajiang & Cai, Hongmin & Li, Quanzheng & Liu, Tianming & Li, Xiang. (2023). ChatAug: Leveraging ChatGPT for Text Data Augmentation. 
 ](https://arxiv.org/pdf/2302.13007.pdf)https://arxiv.org/pdf/2302.13007.pdf
