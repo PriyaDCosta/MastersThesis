@@ -13,6 +13,12 @@ There exists only one pre-print  <sup>[5]</sup> with a similar theme. This prepr
 
 Secondly, Chataug, is tested using three types of data - Amazon product reviews (Customer reviews from 24 product categories), Symptoms dataset (Transcripts of audio data of common medical symptom descriptions over 8 hours) and PubMed20K dataset (Around 20,000 annotated scientific abstracts from the biomedical field). This data is primarily factual in nature, and is mostly related to the field of medicine. Non-factual text data - such as opinions, questions, creative writing and sarcastic comments are not considered in the training set. Similarly, it does not factor in the readability score of the data under consideration.
 
+### Experimental Design :
+
+We propose an experimental design that involves applying text augmentation methods (paraphrasing, back translation, synonym replacement, alternate spelling, and sequence alteration) using various LLMs (Chat GPT, XLNet, DyloGPT, BlenderBot, and Bard) across different data contexts such as  sarcastic data, data with varied emotions (customer reviews), data in the form of questions, opinion-based data and conversations data 
+
+To measure semantic similarity, we will use text similarity measures like Cosine Similarity, Dice's Coefficient, Manhattan Distance, Jaccard Distance, and Overlap Coefficient. The outcomes will be analyzed to draw causal inferences addressing the research questions. The experiments and analysis will be conducted in Python.
+
 ### Research Questions:
 
 #### RQ1:
@@ -21,12 +27,7 @@ How semantically similar is the original text and the augmented text generated b
 #### RQ2: 
 Are there any peculiarities noticed in any context or augmentation method? Are there any plausible reasons for the same? Does this make any LLMs more suited for any method or context of text augmentation?
 
-### Experimental Design :
-
-We propose an experimental design that involves applying text augmentation methods (paraphrasing, back translation, synonym replacement, alternate spelling, and sequence alteration) using various LLMs (Chat GPT, XLNet, DyloGPT, BlenderBot, and Bard) across different data contexts such as  sarcastic data, data with varied emotions (customer reviews), data in the form of questions, opinion-based data and conversations data 
-
-To measure semantic similarity, we will use text similarity measures like Cosine Similarity, Dice's Coefficient, Manhattan Distance, Jaccard Distance, and Overlap Coefficient. The outcomes will be analyzed to draw causal inferences addressing the research questions. The experiments and analysis will be conducted in Python.
-Novel Contributions:
+### Novel Contributions:
 
 Text augmentation using LLMs is highly dependent on the context of the data, and their efficacy must be studied with respect to the context. Text data is an important input to Computational Social Science, and we anticipate that future works in the space will be influenced by LLMs. Through this study, we aim to contribute meaningful insights around how LLMs can be used for text augmentation tasks, and whether certain LLMs must be specifically used for augmentation of certain types of text data / certain augmentation methods.
 
