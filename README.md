@@ -19,7 +19,7 @@ We propose an experimental design that involves applying text augmentation metho
 
 To measure semantic similarity, we will use text similarity measures like Cosine Similarity, Dice's Coefficient, Manhattan Distance, Jaccard Distance, and Overlap Coefficient. The outcomes will be analyzed to draw causal inferences addressing the research questions. The experiments and analysis will be conducted in Python.
 
-*This approach is tentative*
+*This approach is tentative.*
 
 ### Research Questions:
 
